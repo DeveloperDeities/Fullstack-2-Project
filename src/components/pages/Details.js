@@ -27,8 +27,7 @@ function Details(props) {
                     </div>
                     <div class="form-group">
                         <label for="exampleFormControlTextarea1">We'll notify you as soon as possible.</label>
-                        
-                    </div>
+                        </div>
                     <Link to="/products" class="btn text-uppercase btn-primary">Submit</Link>
                 </form>
             </div>
