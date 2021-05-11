@@ -10,16 +10,22 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/07/01/Pictures/_d54e1ff0-7d19-11e8-98f1-ed5cda4a01f0.jpg'
+              src='https://www.yogabaron.com/wp-content/uploads/2018/12/Yoga-teacher-at-front-of-yoga-class-dec9.jpg'
               
               text='Connecting to a 5,000-year-old tradition of saints and sages lends a unique quality to meditation practice. I’ve had moments of feeling as if I’m in the presence of those who have done these techniques over centuries'
               label='Elena Brower'
               path=''
             />
             <CardItem
-              src='https://assets.seniority.in/media/ktpl_blog/Yoga_Asanas_That_Anyone_Can_Do-main_image.jpg'
+              src='https://www.verywellfit.com/thmb/aZlzFpDfWUHV2mjqsI0fRDGcDAg=/4356x2904/filters:no_upscale():max_bytes(150000):strip_icc()/RinaJakubowicz-1737e6ef97c64e358307b5fa16e67137.jpeg'
               text='The 27-year-old seems both exuberant and wise. She says she believes that within each student lies a vast wellspring of love and potential—and it’s her job as a teacher to draw that out. Her classes blend rigorous poses and soothing adjustments with bursts of yoga philosophy.'
               label='Heidi Kristoffer'
+              path=''
+            />
+            <CardItem
+              src='https://themazemethod.com/wp-content/uploads/2018/06/NOAH_MAZE_2018_BY_ANDREA_KILLAM_SQUARE_2.jpg'
+              text='Noah grew up around the practice and philosophy of yoga, and is today considered one of the USA’s most knowledgeable yoga teachers, particularly when it comes to teacher training. His unique style is a blend of the traditions he has studied and practiced including Hatha, Iyengar, Ashtanga Vinyasa and Anusara through which he was first trained as a teacher.'
+              label='Noah Maze.'
               path=''
             />
           </ul>
@@ -44,6 +50,7 @@ function Cards() {
               label='Review 3'
               path=''
             />
+            
           </ul>
         </div>
       </div>
